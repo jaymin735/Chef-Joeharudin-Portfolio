@@ -1,0 +1,13 @@
+{
+  "name": "chef-joharudin-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio website for Chef Joharudin.",
+  "scripts": {
+    "start": "echo \"No local server configured. Open index.html in a browser or use your own web server.\"",
+    "build": "echo \"No build step required for this static site.\""
+  },
+  "dependencies": {
+    "json": "^11.0.0"
+  }
+}
